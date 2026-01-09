@@ -1,4 +1,3 @@
-# python-animatio
 visible data by python/做一个python可视化
 
   ## 1. Quick Start / 快速开始  
